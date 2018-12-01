@@ -6,6 +6,7 @@ Este sistema es cuenta con los siguientes registros.
 - Registro de Suplidores. 
 - Registro de Productos.
 - Registro de Compras, etc.
+- Registro de Usuarios.
 
 Dicho sistema esta orientado a lo que conocemos como un sistema de inventario.
 
