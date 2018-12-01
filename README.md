@@ -1,4 +1,4 @@
-# MrPaper
+# Mr Paper.
 Mr Paper, es una empresa que se encarga de comprar Papelería a distintos suplidores de diferentes empresas, para luego estos exportar esa papelería a sus distintos negocios.
 
 Este sistema es cuenta con los siguientes registros.
