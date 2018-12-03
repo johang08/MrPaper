@@ -28,7 +28,7 @@ namespace MrPaper.UI.Registros
             Suplidores suplidores = new Suplidores();
             suplidores.SuplidorID = Convert.ToInt32(SuplidorIdNumericUpDown.Value);
             suplidores.NombreEmpresa = NombreEmpresaTextBox.Text;
-            suplidores.RNC = RNCTextBox.Text;
+            suplidores.RNC = Convert.ToInt32(RNCTextBox.Text);
             suplidores.Direccion = DireccionTextBox.Text;
             suplidores.Telefono = TelefonoTextBox.Text;
             suplidores.Fecha = FechaRegDateTimePicker.Value;
@@ -111,7 +111,7 @@ namespace MrPaper.UI.Registros
             {
                 if (!ExisteEnLaBaseDeDatos())
                 {
-                    MessageBox.Show("El Usuario no existe", "Fallo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("El Suplidor no existe", "Fallo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
                 paso = SuplidoresBLL.Modificar(suplidores);

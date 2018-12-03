@@ -63,6 +63,16 @@ namespace MrPaper.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _160_F_39116629_AWc7QbKIEKbfkDdbkTH6HICZBBZg6Q67 {
+            get {
+                object obj = ResourceManager.GetObject("160_F_39116629_AWc7QbKIEKbfkDdbkTH6HICZBBZg6Q67", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_Checkmark_35px_1 {
             get {
                 object obj = ResourceManager.GetObject("icons8_Checkmark_35px_1", resourceCulture);

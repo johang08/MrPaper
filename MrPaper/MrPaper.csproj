@@ -71,11 +71,47 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\Consultas\cCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Consultas\cCompras.Designer.cs">
+      <DependentUpon>cCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Consultas\cProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Consultas\cProductos.Designer.cs">
+      <DependentUpon>cProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Consultas\cSuplidores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Consultas\cSuplidores.Designer.cs">
+      <DependentUpon>cSuplidores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Consultas\cUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Consultas\cUsuarios.Designer.cs">
+      <DependentUpon>cUsuarios.cs</DependentUpon>
+    </Compile>
     <Compile Include="UI\Registros\rCompras.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="UI\Registros\rCompras.Designer.cs">
       <DependentUpon>rCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Registros\rLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Registros\rLogin.Designer.cs">
+      <DependentUpon>rLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Registros\rProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Registros\rProductos.Designer.cs">
+      <DependentUpon>rProductos.cs</DependentUpon>
     </Compile>
     <Compile Include="UI\Registros\rSuplidores.cs">
       <SubType>Form</SubType>
@@ -89,6 +125,9 @@
     <Compile Include="UI\Registros\rUsuarios.Designer.cs">
       <DependentUpon>rUsuarios.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -99,8 +138,26 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UI\Consultas\cCompras.resx">
+      <DependentUpon>cCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Consultas\cProductos.resx">
+      <DependentUpon>cProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Consultas\cSuplidores.resx">
+      <DependentUpon>cSuplidores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Consultas\cUsuarios.resx">
+      <DependentUpon>cUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UI\Registros\rCompras.resx">
       <DependentUpon>rCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Registros\rLogin.resx">
+      <DependentUpon>rLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Registros\rProductos.resx">
+      <DependentUpon>rProductos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UI\Registros\rSuplidores.resx">
       <DependentUpon>rSuplidores.cs</DependentUpon>
@@ -120,13 +177,15 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="UI\Consultas\" />
     <Folder Include="UI\Reportes\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\160_F_39116629_AWc7QbKIEKbfkDdbkTH6HICZBBZg6Q67.png" />
     <Content Include="DAL\Scripts\SQLQuery1.sql" />
     <Content Include="Resources\Sin título-1.png" />
     <None Include="Resources\Sin título-11.jpg" />

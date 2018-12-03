@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace MrPaper.Entidades
 {
@@ -12,6 +13,8 @@ namespace MrPaper.Entidades
         public decimal Ganancia { get; set; }
         public int Inventario { get; set; }
         public string Descripcion { get; set; }
+        public DateTime FechaProductos { get; internal set; }
+        public object NombreProducto { get; internal set; }
 
         public Productos()
         {

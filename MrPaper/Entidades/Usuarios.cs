@@ -17,6 +17,8 @@ namespace MrPaper.Entidades
         public string ConfirmarClave { get; set; }
         public string TipoUsuario { get; set; }
         public DateTime Fecha { get; set; }
+        public object Nombres { get; internal set; }
+        public object NombreUsuario { get; internal set; }
 
         public Usuarios()
         {

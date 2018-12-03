@@ -30,3 +30,32 @@ C:\Users\Johan González\Desktop\MrPaper\MrPaper\obj\Debug\MrPaper.csproj.CoreCo
 C:\Users\Johan González\Desktop\MrPaper\MrPaper\obj\Debug\MrPaper.csproj.CopyComplete
 C:\Users\Johan González\Desktop\MrPaper\MrPaper\obj\Debug\MrPaper.exe
 C:\Users\Johan González\Desktop\MrPaper\MrPaper\obj\Debug\MrPaper.pdb
+F:\Proyecto Final Aplicada 1\MrPaper V1.5\MrPaper\obj\Debug\MrPaper.csprojAssemblyReference.cache
+F:\Proyecto Final Aplicada 1\MrPaper V1.5\MrPaper\obj\Debug\MrPaper.Properties.Resources.resources
+F:\Proyecto Final Aplicada 1\MrPaper V1.5\MrPaper\obj\Debug\MrPaper.UI.Registros.rCompras.resources
+F:\Proyecto Final Aplicada 1\MrPaper V1.5\MrPaper\obj\Debug\MrPaper.UI.Registros.rProductos.resources
+F:\Proyecto Final Aplicada 1\MrPaper V1.5\MrPaper\obj\Debug\MrPaper.UI.Registros.rSuplidores.resources
+F:\Proyecto Final Aplicada 1\MrPaper V1.5\MrPaper\obj\Debug\MrPaper.UI.Registros.rUsuarios.resources
+F:\Proyecto Final Aplicada 1\MrPaper V1.5\MrPaper\obj\Debug\MrPaper.csproj.GenerateResource.cache
+F:\Proyecto Final Aplicada 1\MrPaper V1.5\MrPaper\obj\Debug\MrPaper.csproj.CoreCompileInputs.cache
+F:\Proyecto Final Aplicada 1\MrPaper V1.5\MrPaper\obj\Debug\MrPaper.exe
+F:\Proyecto Final Aplicada 1\MrPaper V1.5\MrPaper\obj\Debug\MrPaper.pdb
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\obj\Debug\MrPaper.csprojAssemblyReference.cache
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\obj\Debug\MrPaper.Properties.Resources.resources
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\obj\Debug\MrPaper.UI.Registros.rCompras.resources
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\obj\Debug\MrPaper.UI.Registros.rLogin.resources
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\obj\Debug\MrPaper.UI.Registros.rProductos.resources
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\obj\Debug\MrPaper.UI.Registros.rSuplidores.resources
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\obj\Debug\MrPaper.UI.Registros.rUsuarios.resources
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\obj\Debug\MrPaper.csproj.GenerateResource.cache
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\obj\Debug\MrPaper.csproj.CoreCompileInputs.cache
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\obj\Debug\MrPaper.exe
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\obj\Debug\MrPaper.pdb
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\bin\Debug\MrPaper.exe.config
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\bin\Debug\MrPaper.exe
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\bin\Debug\MrPaper.pdb
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\bin\Debug\EntityFramework.dll
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\bin\Debug\EntityFramework.xml
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Johan González\Desktop\MrPaper V1.5.2\MrPaper\obj\Debug\MrPaper.csproj.CopyComplete
